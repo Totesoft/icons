@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 403.98 399.84">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #f2f2f2;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-4, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-6 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 24px;
+      }
+
+      .cls-3 {
+        stroke: #2c79f4;
+      }
+
+      .cls-7, .cls-4, .cls-5, .cls-8 {
+        fill: #2c79f4;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-8 {
+        font-family: AcierBATText-Noir, 'Acier BAT';
+        font-size: 100px;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <polyline class="cls-5" points="99.15 200.37 .47 199.77 .47 398.55 201.69 399.77 201.69 200.99 99.15 200.37"/>
+    <polygon class="cls-7" points="201.61 .06 201.61 198.84 402.83 200.06 402.83 1.28 201.61 .06"/>
+    <polyline class="cls-1" points="201.65 98.11 100.32 97.49 100.32 129.96"/>
+    <polyline class="cls-3" points="100.32 196.68 100.32 297.27 301.07 298.97 301.07 99.19 201.65 98.11"/>
+    <line class="cls-1" x1="100.32" y1="129.96" x2="100.32" y2="196.68"/>
+    <polygon class="cls-9" points=".99 0 .99 198.78 202.21 200 202.21 1.22 .99 0"/>
+    <polygon class="cls-3" points="201.26 198.33 201.26 397.11 402.48 398.33 402.48 199.55 201.26 198.33"/>
+    <text class="cls-6" transform="translate(226 380)"><tspan x="0" y="0">Established 2026</tspan></text>
+    <path class="cls-3" d="M1.77,2.15v198.78c32.17.2,64.35.39,96.52.59,34.9.21,69.8.42,104.7.63V3.37L1.77,2.15Z"/>
+    <path class="cls-3" d="M100.32,97.49v198.78c32.17.2,64.35.39,96.52.59,34.9.21,69.8.42,104.7.63V98.71l-201.22-1.22Z"/>
+    <line class="cls-3" x1="100.11" y1="96.21" x2="100.53" y2="198.45"/>
+    <line class="cls-3" x1="300.73" y1="198.54" x2="301.14" y2="300.78"/>
+    <line class="cls-3" x1="300.64" y1="299.32" x2="203.16" y2="297.82"/>
+    <line class="cls-3" x1="100.47" y1="97.64" x2="202" y2="98.15"/>
+    <line class="cls-3" x1="113.05" y1="211.37" x2="112.63" y2="109.12"/>
+    <line class="cls-3" x1="113.14" y1="110.58" x2="210.61" y2="112.08"/>
+    <line class="cls-3" x1="288.96" y1="185.7" x2="289.38" y2="287.94"/>
+    <line class="cls-3" x1="288.87" y1="286.48" x2="191.4" y2="284.98"/>
+    <line class="cls-2" x1="290.38" y1="112.39" x2="199.4" y2="112.76"/>
+    <line class="cls-2" x1="111.5" y1="285.34" x2="113.04" y2="198.57"/>
+    <line class="cls-2" x1="288.16" y1="200.51" x2="289.7" y2="113.74"/>
+    <line class="cls-2" x1="200.85" y1="285.59" x2="109.87" y2="285.96"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <line class="cls-2" x1="96.21" y1="299.12" x2="198.45" y2="300.4"/>
+    <line class="cls-2" x1="97.64" y1="298.79" x2="99.84" y2="197.28"/>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <line class="cls-2" x1="302.33" y1="96.72" x2="200.09" y2="96.12"/>
+    <line class="cls-2" x1="301.9" y1="97.07" x2="300.38" y2="198.59"/>
+  </g>
+  <g id="Box">
+    <text class="cls-8" transform="translate(109.3 229.92)"><tspan class="cls-12" x="0" y="0">B</tspan><tspan class="cls-11" x="50.6" y="0">o</tspan><tspan class="cls-10" x="121" y="0">x</tspan></text>
+  </g>
+  <g id="Layer_7" data-name="Layer 7">
+    <text class="cls-4" transform="translate(110.72 229.08)"><tspan class="cls-12" x="0" y="0">B</tspan><tspan class="cls-11" x="50.6" y="0">o</tspan><tspan class="cls-10" x="121" y="0">x</tspan></text>
+  </g>
+</svg>
